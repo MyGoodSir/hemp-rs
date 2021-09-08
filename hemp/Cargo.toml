@@ -2,6 +2,7 @@
 name = "hemp"
 version = "0.1.0"
 edition = "2018"
+resolver="2"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
@@ -10,3 +11,7 @@ sprs = "0.11"
 nalgebra = "0.29"
 obj = "0.10"
 wgpu = "0.10"
+winit = "0.25"
+async-executor = "1.0"
+pollster = "0.2"
+env_logger = "0.8"
