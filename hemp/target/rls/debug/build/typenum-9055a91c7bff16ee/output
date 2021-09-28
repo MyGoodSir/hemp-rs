@@ -1,2 +1,2 @@
-cargo:rustc-env=TYPENUM_BUILD_CONSTS=g:\.dev\_current\rust\hemp-rs\hemp\target\rls\debug\build\typenum-9055a91c7bff16ee\out\consts.rs
-cargo:rustc-env=TYPENUM_BUILD_OP=g:\.dev\_current\rust\hemp-rs\hemp\target\rls\debug\build\typenum-9055a91c7bff16ee\out\op.rs
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=c:\dev\hemp-rs\hemp\target\rls\debug\build\typenum-9055a91c7bff16ee\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=c:\dev\hemp-rs\hemp\target\rls\debug\build\typenum-9055a91c7bff16ee\out\op.rs

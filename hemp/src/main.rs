@@ -5,6 +5,8 @@ use winit::{
     window::Window,
 };
 
+mod halfedge;
+
 async fn run(event_loop: EventLoop<()>, window: Window) {
     let size = window.inner_size();
     let instance = wgpu::Instance::new(wgpu::Backends::all());
